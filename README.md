@@ -17,6 +17,9 @@
 - Connect your device or run simulator
 - react-native run-android
 
+## Demo
+https://www.veed.io/view/d4ab262a-42a7-4e1a-a46e-82f5958906db
+
 ## Screenshots
 
 | Tasks  | Screenshots |
