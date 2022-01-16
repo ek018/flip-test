@@ -2,7 +2,6 @@
 
 ## Installation steps
 - yarn
-- cmd/adjust-lib.sh
 - cd ios && pod install
 
 ## Official guide to running on device
